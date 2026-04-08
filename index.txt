@@ -1,3 +1,2 @@
-Hello DevOps World
-Login Feature Added
-Login Feature Added
+Feature A change
+Feature B change
